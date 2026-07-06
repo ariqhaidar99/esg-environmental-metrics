@@ -1,6 +1,6 @@
-***Scotland Carbon Footprint Trend Analysis (1998–2021)***
+*** Scotland Carbon Footprint Trend Analysis (1998–2021) ***
 
-***Summary***
+*** Summary ***
 This project provides an in-depth exploratory data analysis and statistical evaluation of Scotland’s greenhouse gas emissions, indexed by carbon source. By leveraging historical data, this study evaluates the efficacy of current decarbonization trends against Scotland’s legislative target to achieve Net Zero by 2045.
 
 **Project Architecture**
