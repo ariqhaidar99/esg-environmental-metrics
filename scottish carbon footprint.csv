@@ -1,0 +1,97 @@
+FeatureCode,FeatureName,FeatureType,DateCode,Measurement,Units,Value,Breakdown of Scotland's carbon footprint
+S92000003,Scotland,Country,1999,Count,Mt Co2Equiv,13.27313715,Scottish emissions generated directly by households
+S92000003,Scotland,Country,1998,Count,Mt Co2Equiv,13.3133285,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2000,Count,Mt Co2Equiv,13.12037813,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2017,Count,Mt Co2Equiv,12.09841469,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2016,Count,Mt Co2Equiv,11.81106333,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2018,Count,Mt Co2Equiv,12.66521584,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2005,Count,Mt Co2Equiv,13.64894327,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2004,Count,Mt Co2Equiv,13.38916227,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2006,Count,Mt Co2Equiv,13.56264318,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2002,Count,Mt Co2Equiv,13.28220633,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2001,Count,Mt Co2Equiv,13.70990642,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2003,Count,Mt Co2Equiv,13.2080746,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2008,Count,Mt Co2Equiv,11.97063593,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2007,Count,Mt Co2Equiv,14.26059039,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2009,Count,Mt Co2Equiv,9.988277902,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2005,Count,Mt Co2Equiv,14.21831758,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2004,Count,Mt Co2Equiv,13.40608912,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2006,Count,Mt Co2Equiv,13.73864646,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2014,Count,Mt Co2Equiv,9.130850829,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2013,Count,Mt Co2Equiv,8.559543219,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2015,Count,Mt Co2Equiv,9.584981792,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2011,Count,Mt Co2Equiv,9.214007446,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2010,Count,Mt Co2Equiv,9.395744457,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2012,Count,Mt Co2Equiv,9.14069512,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2020,Count,Mt Co2Equiv,15.19999099,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2019,Count,Mt Co2Equiv,12.24514576,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2021,Count,Mt Co2Equiv,15.97294016,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2019,Count,Mt Co2Equiv,13.78057297,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2019,Count,Mt Co2Equiv,17.32444426,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2019,Count,Mt Co2Equiv,12.88558269,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2020,Count,Mt Co2Equiv,10.53950719,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2021,Count,Mt Co2Equiv,13.65425577,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2021,Count,Mt Co2Equiv,11.61263066,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2021,Count,Mt Co2Equiv,17.92093219,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2020,Count,Mt Co2Equiv,13.90586602,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2020,Count,Mt Co2Equiv,11.99220495,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2011,Count,Mt Co2Equiv,12.12805706,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2010,Count,Mt Co2Equiv,13.76841006,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2012,Count,Mt Co2Equiv,12.75287561,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2008,Count,Mt Co2Equiv,13.363497,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2007,Count,Mt Co2Equiv,13.35707401,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2009,Count,Mt Co2Equiv,13.00684148,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2017,Count,Mt Co2Equiv,12.22369649,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2016,Count,Mt Co2Equiv,11.99976582,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2018,Count,Mt Co2Equiv,12.41411791,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2014,Count,Mt Co2Equiv,11.73737646,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2013,Count,Mt Co2Equiv,12.89218532,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2015,Count,Mt Co2Equiv,12.0064049,Scottish emissions generated directly by households
+S92000003,Scotland,Country,2014,Count,Mt Co2Equiv,23.89712401,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2013,Count,Mt Co2Equiv,25.13875296,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2015,Count,Mt Co2Equiv,23.11276069,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2011,Count,Mt Co2Equiv,24.72708032,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2010,Count,Mt Co2Equiv,26.48919849,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2012,Count,Mt Co2Equiv,25.87355878,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,1999,Count,Mt Co2Equiv,17.62713761,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,1998,Count,Mt Co2Equiv,18.02450477,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2000,Count,Mt Co2Equiv,16.74165632,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2017,Count,Mt Co2Equiv,17.74264452,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2016,Count,Mt Co2Equiv,19.6291458,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2018,Count,Mt Co2Equiv,17.77619801,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2002,Count,Mt Co2Equiv,30.33516204,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2001,Count,Mt Co2Equiv,31.1408326,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2003,Count,Mt Co2Equiv,30.89433949,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,1999,Count,Mt Co2Equiv,31.1854858,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,1998,Count,Mt Co2Equiv,33.13728208,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2000,Count,Mt Co2Equiv,31.05625369,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2008,Count,Mt Co2Equiv,28.98985203,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2007,Count,Mt Co2Equiv,30.82296985,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2009,Count,Mt Co2Equiv,26.60983315,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2005,Count,Mt Co2Equiv,31.21563829,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2004,Count,Mt Co2Equiv,30.77582843,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2006,Count,Mt Co2Equiv,30.89977469,UK production emissions attributable to Scottish final consumption
+S92000003,Scotland,Country,2017,Count,Mt Co2Equiv,13.57084027,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2016,Count,Mt Co2Equiv,13.5413935,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2018,Count,Mt Co2Equiv,14.74119279,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2014,Count,Mt Co2Equiv,20.92153564,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2013,Count,Mt Co2Equiv,21.11355787,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2015,Count,Mt Co2Equiv,19.97895516,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2002,Count,Mt Co2Equiv,11.23181105,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2001,Count,Mt Co2Equiv,9.233497756,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2003,Count,Mt Co2Equiv,11.93109457,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,1999,Count,Mt Co2Equiv,9.198676969,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,1998,Count,Mt Co2Equiv,9.399968934,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2000,Count,Mt Co2Equiv,10.27768377,Emissions embedded in imports direct to Scottish final consumption
+S92000003,Scotland,Country,2005,Count,Mt Co2Equiv,20.33103162,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2004,Count,Mt Co2Equiv,20.90950393,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2006,Count,Mt Co2Equiv,21.86355756,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2002,Count,Mt Co2Equiv,18.36020257,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2001,Count,Mt Co2Equiv,16.0459475,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2003,Count,Mt Co2Equiv,17.33704427,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2011,Count,Mt Co2Equiv,19.24586629,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2010,Count,Mt Co2Equiv,18.11213077,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2012,Count,Mt Co2Equiv,20.49077373,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2008,Count,Mt Co2Equiv,21.26234114,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2007,Count,Mt Co2Equiv,23.21777729,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
+S92000003,Scotland,Country,2009,Count,Mt Co2Equiv,18.47268153,"Emissions embedded in imports consumed by UK industry, attributable to Scottish final consumption"
